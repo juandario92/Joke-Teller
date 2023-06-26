@@ -11,7 +11,7 @@ function toggleButton() {
 
 function tellMe(joke){
     VoiceRSS.speech({
-        key: '45941e580c4446e1bdbb5f9e29b8d61d',
+        key: 'Inserte su clave api aqui',
         src: joke,
         hl: 'en-us',
         v: 'Linda',
